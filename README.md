@@ -71,7 +71,6 @@ The result is:
 {Type:INT Literal:6}
 ```
 
-The parser will process the expression, generate an AST, and the interpreter will evaluate the expression, displaying the final result in the console.
 
 ### TESTING
 
